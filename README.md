@@ -2,7 +2,6 @@
 
 Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre Docker. O trabalho consiste em estruturar e desenvolver querys utilizando o banco de dados [Northwind](https://www.aspsnippets.com/Articles/Download-and-Install-Microsoft-Northwind-Sample-database-in-MySql.aspx).
 
-
 ## Autor
 
 - [Rafael Souza](https://github.com/Rafael-Souza-97)
