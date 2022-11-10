@@ -72,18 +72,18 @@ npm install
  
  <br>
 
-- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-one-for-all.git`:
+- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-all-for-one.git`:
 
 ```bash
-git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
+git clone git@github.com:Rafael-Souza-97/mysql-all-for-one.git
 ```
 
 <br>
 
- - Instale as depëndencias, caso necessário, com `npm install`:
+- Entre na pasta do repositório que você acabou de clonar:
 
 ```bash
-npm install
+cd mysql-all-for-one
 ```
 
  > Execute a aplicação com `npm start` ou `npm run dev`
