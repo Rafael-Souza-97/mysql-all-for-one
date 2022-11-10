@@ -17,7 +17,7 @@ Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para r
 
 <br>
 
-- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-all-for-one.git`;
+- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-all-for-one.git`:
 
 ```bash
 git clone git@github.com:Rafael-Souza-97/mysql-all-for-one.git
@@ -33,7 +33,7 @@ cd mysql-all-for-one
 
 <br>
 
-- Rode o serviço `node` com o comando `docker-compose up -d`.
+- Rode o serviço `node` com o comando `docker-compose up -d`:
 
  > - Esse serviço irá inicializar um container chamado `one_for_all`.
  > - A partir daqui você pode rodar o container via CLI ou abri-lo no VS Code.
@@ -44,7 +44,7 @@ docker-compose up -d
 
 <br>
 
-- Use o comando `docker exec -it all_for_one bash`.
+- Use o comando `docker exec -it all_for_one bash`:
 
  > - Ele te dará acesso ao terminal interativo do container criado pelo compose, que está rodando em segundo plano.
  > - As credencias de acesso ao banco de dados estão definidas no arquivo `docker-compose.yml`, e são acessíveis no container através das variáveis de    ambiente `MYSQL_USER` e `MYSQL_PASSWORD`.
@@ -55,7 +55,7 @@ docker exec -it all_for_one bash
 
 <br>
 
-- Instale as depëndencias, caso necessário, com `npm install` (dentro do bash do container).
+- Instale as depëndencias, caso necessário, com `npm install` (dentro do bash do container):
 
 ```bash
 npm install
@@ -72,7 +72,7 @@ npm install
  
  <br>
 
-- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-one-for-all.git`;
+- Clone o repositório `git@github.com:Rafael-Souza-97/mysql-one-for-all.git`:
 
 ```bash
 git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
@@ -80,7 +80,7 @@ git clone git@github.com:Rafael-Souza-97/mysql-one-for-all.git
 
 <br>
 
- - Instale as depëndencias, caso necessário, com `npm install`.
+ - Instale as depëndencias, caso necessário, com `npm install`:
 
 ```bash
 npm install
