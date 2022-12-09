@@ -1,6 +1,6 @@
 # MySQL (All-For-One)
 
-Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre criação de queries no [MySQL](https://www.mysql.com/). O trabalho consiste em estruturar e desenvolver queries utilizando o banco de dados [Northwind](https://www.aspsnippets.com/Articles/Download-and-Install-Microsoft-Northwind-Sample-database-in-MySql.aspx). A aplicação [MySQL](https://www.mysql.com/) está configurada para rodar dentro de um container [Docker](https://www.docker.com/).
+Aplicação realizada enquanto aluno da [Trybe](https://www.betrybe.com/) para reforçar os conhecimentos sobre criação de queries no [MySQL](https://www.mysql.com/). O projeto consiste em estruturar e desenvolver queries utilizando o banco de dados [Northwind](https://www.aspsnippets.com/Articles/Download-and-Install-Microsoft-Northwind-Sample-database-in-MySql.aspx). A aplicação [MySQL](https://www.mysql.com/) está configurada para rodar dentro de um container [Docker](https://www.docker.com/).
 
 <br>
 
