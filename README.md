@@ -114,3 +114,4 @@ cd mysql-all-for-one
 ## Infos Adicionais
 
 - ###### Percentual de cumprimento de requisitos ([Trybe](https://www.betrybe.com/))- 100%
+
