@@ -68,7 +68,7 @@ npm install
  
 ### Rodando a aplicação SEM [Docker](https://www.docker.com/)
 
-  > :warning: Para rodar a aplicação desta forma, obrigatoriamente você deve ter o [Node](https://nodejs.org/en/) instalado em seu computador.
+> :warning: Para rodar a aplicação desta forma, obrigatoriamente você deve ter o [Node](https://nodejs.org/en/) instalado em seu computador.
  
  <br>
 
